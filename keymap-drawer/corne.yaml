@@ -40,7 +40,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
+  - LGUI
   - $$mdi:apple-keyboard-option$$
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: FN}
@@ -48,7 +48,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: FN}
   - SYMBOL
   - $$mdi:backspace-reverse-outline$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '`', s: '~'}
   NUMBER:
   - Ctl+ F1
   - {t: '1', s: '!'}
