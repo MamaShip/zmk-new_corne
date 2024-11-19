@@ -1,4 +1,5 @@
-if you  need the 3D modle of this  keyboard，you can  connect me by Email。380465425@qq.com
+可视化改键：https://nickcoutsos.github.io/keymap-editor/
+
 # zmk-config-corne
 
 
