@@ -113,11 +113,11 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&trans  &kp EXCL      &kp AT        &kp HASH   &kp DLLR   &kp PRCNT       &mmv MOVE_UP     &kp CARET  &kp AMPS          &kp ASTRK          &kp LPAR   &kp RPAR  &kp BSPC
-&trans  &bt BT_CLR    &mkp LCLK     &mkp MCLK  &mkp RCLK  &kp KP_EQUAL    &mmv MOVE_DOWN   &kp MINUS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE  &kp UP    &kp BACKSLASH
-&trans  &out OUT_USB  &out OUT_BLE  &none      &none      &kp PLUS        &mmv MOVE_LEFT   &kp UNDER  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp LEFT   &kp DOWN  &kp RIGHT
-                      &trans        &trans     &trans     &kp SPACE       &mmv MOVE_RIGHT  &kp RET    &trans            &trans
-                                                                          &mkp LCLK
+&trans  &kp EXCL      &kp AT        &kp HASH   &kp DLLR   &kp PRCNT    &mmv MOVE_UP     &kp CARET  &kp AMPS          &kp ASTRK          &kp LPAR   &kp RPAR  &kp BSPC
+&trans  &bt BT_CLR    &mkp LCLK     &mkp MCLK  &mkp RCLK  &kp EQUAL    &mmv MOVE_DOWN   &kp MINUS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE  &kp UP    &kp BACKSLASH
+&trans  &out OUT_USB  &out OUT_BLE  &none      &none      &kp PLUS     &mmv MOVE_LEFT   &kp UNDER  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp LEFT   &kp DOWN  &kp RIGHT
+                      &trans        &trans     &trans     &kp SPACE    &mmv MOVE_RIGHT  &kp RET    &trans            &trans
+                                                                       &mkp LCLK
             >;
 
             label = "SYMBOL";
