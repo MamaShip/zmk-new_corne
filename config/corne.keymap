@@ -21,7 +21,7 @@
             #binding-cells = <0>;
             bindings = <&kp LEFT_SHIFT>, <&kp CAPS>;
 
-            tapping-term-ms = <100>;
+            tapping-term-ms = <150>;
         };
 
         td1: td1 {
