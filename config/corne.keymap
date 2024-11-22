@@ -20,6 +20,8 @@
             label = "TD0";
             #binding-cells = <0>;
             bindings = <&kp LEFT_SHIFT>, <&kp CAPS>;
+
+            tapping-term-ms = <100>;
         };
 
         td1: td1 {
